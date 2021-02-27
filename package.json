@@ -8,6 +8,8 @@
   },
   "author": "Wapo",
   "license": "ISC",
-  "repository": {"url": "https://github.com/AlexeyWapo/test.git"}
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexeyWapo/test.git"}
   
 }
